@@ -1,12 +1,8 @@
 - 👋 Hi
-- 👀 In cyber simulation
-- learning to create end to end connectivity between users in existing prgrm
-- ie: DM/Email etc.  
-- 🌱 I’m currently working onvoffline cybersecurity simdev w/ automated red team.
-- In the weeds of GreyBox/TopGen/GHOSTS
+- 👀 In cyber/sim
+- 🌱 In the weeds of GreyBox/TopGen/GHOSTS
 -    
 -    
 - 📫 Open to collab/always want advice.
--    keep most work separate but will post here
--    
+-    dont generally work on jere so dm for projectd 
 -  ✨c ya ✨ 
