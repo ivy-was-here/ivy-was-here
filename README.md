@@ -1,8 +1,1 @@
-- 👋 Hi
-- 👀 In cyber/sim
-- 🌱 In the weeds of GreyBox/TopGen/GHOSTS
--    
--    
-- 📫 Open to collab/always want advice.
--    dont generally work on jere so dm for projectd 
--  ✨c ya ✨ 
+
